@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller build artifacts
+build/
+
+# Large binary files — keep only the installer
+dist/SBoxAnalyzer.exe
+dist/sbox_analysis_results.txt
+dist/sbox_analysis_report.docx
+dist/sbox_analysis_report.pdf
+
+# Temp / editor
+*.tmp
+.vscode/
+dist_upload_package/
+SBoxAnalyzer_dist_github_upload.zip
